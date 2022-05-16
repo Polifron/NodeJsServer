@@ -1,6 +1,7 @@
 # NodeJsServer
 
 To run, open terminal and write 'npm run devStart' 
+
 For close: ctrl+c and y 
 
 It is not responsive, I didnt manage to instal sass becouse of this error:
